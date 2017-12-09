@@ -1,0 +1,8 @@
+// lw  $s0,32($t0)
+//add $t1,$s1,$s1
+//sub $t2,$t2,$t2
+// sw  $t1,36($t0)
+
+
+
+/* Hazrad only  */

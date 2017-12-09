@@ -1,0 +1,8 @@
+// add $t2,$t3,$t1 
+// add $s2,$t1,$t2
+// sub $t3,$s2,$t3 
+// add $s1,$S1,$S1
+// add $s0,$t3,$t1
+
+
+/* ALU TO ALU FORWARDING  */
