@@ -1,5 +1,5 @@
 # Piplined-Mips-processor-2017
-this an implementation to a piplined mips procesor using verilog language.
+This is an implementation to a piplined mips procesor using verilog language.
 
 >>for information about the project please read the file 'CO-project-report.pdf'.
 
